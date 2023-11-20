@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Telas\FormInicialCooler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaCadastrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaFinal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaInicialFonte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaInicialGabinete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaInicialMemoriaRAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaInicialPlacaMae.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaInicialPlacaVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaInicialProcessador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaInicialSSD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaLogar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaTroll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,62 @@
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\bin\Debug\net7.0-windows\Sistema Enzo.exe
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\bin\Debug\net7.0-windows\Sistema Enzo.deps.json
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\bin\Debug\net7.0-windows\Sistema Enzo.runtimeconfig.json
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\bin\Debug\net7.0-windows\Sistema Enzo.dll
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\bin\Debug\net7.0-windows\Sistema Enzo.pdb
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.csproj.AssemblyReference.cache
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Properties.Resources.resources
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaLogar.resources
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.csproj.GenerateResource.cache
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.AssemblyInfoInputs.cache
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.AssemblyInfo.cs
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.csproj.CoreCompileInputs.cache
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.csproj.CopyComplete
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.dll
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\refint\Sistema Enzo.dll
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.pdb
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.genruntimeconfig.cache
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\ref\Sistema Enzo.dll
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaCadastrar.resources
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaFinal.resources
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaInicialFonte.resources
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaInicialGabinete.resources
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaInicialMemoriaRAM.resources
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaInicialPlacaMae.resources
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaInicialPlacaVideo.resources
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaInicialProcessador.resources
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaInicialSSD.resources
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.FormInicialCooler.resources
+C:\Users\proco\source\repos\Sistema Enzo\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaTroll.resources
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\bin\Debug\net7.0-windows\Sistema Enzo.exe
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\bin\Debug\net7.0-windows\Sistema Enzo.deps.json
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\bin\Debug\net7.0-windows\Sistema Enzo.runtimeconfig.json
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\bin\Debug\net7.0-windows\Sistema Enzo.dll
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\bin\Debug\net7.0-windows\Sistema Enzo.pdb
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.csproj.AssemblyReference.cache
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Properties.Resources.resources
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.FormInicialCooler.resources
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaCadastrar.resources
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaFinal.resources
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaInicialFonte.resources
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaInicialGabinete.resources
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaInicialMemoriaRAM.resources
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaInicialPlacaMae.resources
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaInicialPlacaVideo.resources
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaInicialProcessador.resources
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaInicialSSD.resources
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaLogar.resources
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema_Enzo.Telas.TelaTroll.resources
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.csproj.GenerateResource.cache
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.AssemblyInfoInputs.cache
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.AssemblyInfo.cs
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.csproj.CopyComplete
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.dll
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\refint\Sistema Enzo.dll
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.pdb
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\Sistema Enzo.genruntimeconfig.cache
+C:\Users\pedro\Downloads\Sistema_MontagemPC-b707ab3652d17f472c9f9cf3f22f63858dc84628\Sistema Enzo\obj\Debug\net7.0-windows\ref\Sistema Enzo.dll
